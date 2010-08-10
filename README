@@ -1,12 +1,8 @@
 NAME
-    Parse::Pegex - Pegex Parser Generator
-
-SYNOPSIS
-        package MyParser;
-        use Parse::Pegex -base;
+    Parse::Pegex - See Pegex.pm
 
 DESCRIPTION
-    Pegex is a new Acmeist parsing technique.
+    Parse::Pegex has been moved to Pegex.
 
 AUTHOR
     Ingy döt Net <ingy@cpan.org>

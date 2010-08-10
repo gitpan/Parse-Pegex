@@ -1,5 +1,5 @@
 ---
-abstract: 'Pegex Parser Generator'
+abstract: 'See Pegex.pm'
 author:
   - 'Ingy döt Net <ingy@cpan.org>'
 build_requires:
@@ -21,4 +21,4 @@ requires:
   perl: 5.8.3
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+version: 0.02

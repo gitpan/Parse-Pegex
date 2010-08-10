@@ -8,8 +8,6 @@ inc/Module/Install/Metadata.pm
 inc/Module/Install/Win32.pm
 inc/Module/Install/WriteAll.pm
 lib/Parse/Pegex.pm
-lib/Parse/Pegex/Base.pm
-lib/Parse/Pegex/Gloom.pm
 Makefile.PL
 MANIFEST			This list of files
 META.yml
